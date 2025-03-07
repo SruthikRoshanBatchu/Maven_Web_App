@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Welcome to Ascus Tech PVT Limited <font></h1>
 
-<a href="www.ashokit.in">Wellcome to Aws-Devops IT </a>
+<a href="www.ashokit.in">Welcome to Aws-Devops IT </a>
   
   <h2> Call Us : +91-9160060833 </h2>
   
